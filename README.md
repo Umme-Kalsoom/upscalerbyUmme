@@ -2,7 +2,9 @@
 
 **Upscaler by Umme** is a lightweight, browser-based image optimization and upscaling tool that allows users to upload images, resize them to higher resolutions, adjust image quality, convert formats, and download the processed result.
 
-The application runs directly in the browser, making it simple to use without requiring complex software installation.
+The application runs directly in the browser, making it simple to use without requiring complex software installation.<img width="1920" height="1080" alt="Screenshot_2026-10-12_02_19_48" src="https://github.com/user-attachments/assets/bfe4455a-3eb3-4645-90a3-4e05a6f5d8bc" />
+<img width="1920" height="1080" alt="Screenshot_2026-10-12_02_20_37" src="https://github.com/user-attachments/assets/360cfea1-f787-46eb-8c6a-028b5776042b" />
+
 
 ## Features
 
@@ -56,7 +58,7 @@ upscalerbyUmme/
 ├── compose.dev.yaml
 ├── index.html
 ├── manifest.json
-├── service-worker.js<img width="1920" height="1080" alt="Screenshot_2026-10-12_02_20_37" src="https://github.com/user-attachments/assets/23e92a70-328f-4a76-9824-9c8d065923d3" />
+├── service-worker.js
 
-└── README.md<img width="1920" height="1080" alt="Screenshot_2026-10-12_02_19_48" src="https://github.com/user-attachments/assets/d2ac03bb-472e-47c5-a543-3cc0660e44f8" />
+└── README.md
 
