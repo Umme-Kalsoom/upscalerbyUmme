@@ -1,0 +1,13 @@
+# docker compose -f compose.dev.yaml up --build
+
+services:
+  upscaler:
+    build:
+      context: .
+    environment:
+      - USERNAME=test
+      - PASSWORD=test
+      - METATAGS=true # development
+    ports:
+      - "3475:80"
+    restart: unless-stopped

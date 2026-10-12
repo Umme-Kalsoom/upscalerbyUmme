@@ -1,0 +1,9 @@
+# Basic compose file for deploying Upscaler
+
+services:
+  upscaler:
+    container_name: upscaler
+    image: ghcr.io/civilblur/upscaler:latest
+    ports:
+      - "3474:80"
+    restart: unless-stopped
